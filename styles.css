@@ -276,16 +276,20 @@ nav h2 {
     color: #fa3737;
     background-color: lightgrey;
     font-weight: bolder;
-
-}
-
-#move {
     text-align: center;
-    text-shadow: #333;
+
 }
+
+
 
 /* #img {
     height: 200px;
     width: 1000px;
 
 } */
+#foot {
+    background-color: #fa3737;
+
+    color: #ddd;
+    text-align: center;
+}
